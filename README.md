@@ -8,5 +8,6 @@ This repository includes:
 * The code that contains the malware under `setup.pyw`
 * The setup file that contains the malware as an executable under `setup.exe`
 * The .zip folder that pretends to be the Mini Motorways installer and contains the executable under `Mini.Motorways.zip`
+* The tools that help decrypting the files after the ransom has been paid, inside the `decrypt` folder
 
 This repository does not include the sample website and song that are shown at the end of the encryption, due to copyright.
